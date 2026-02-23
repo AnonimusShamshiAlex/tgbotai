@@ -18,8 +18,8 @@ logger = logging.getLogger(__name__)
 # ============================================
 # ВАШИ ТОКЕНЫ
 # ============================================
-TELEGRAM_TOKEN = "8444193334:AAH6adrYZEg-id049jKtnl1sKkESuz25c4g"
-OPENROUTER_API_KEY = "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"
+TELEGRAM_TOKEN = "YOU_Telegram_Token"
+OPENROUTER_API_KEY = "you_openrouter_api"
 MODEL_NAME = "arcee-ai/trinity-large-preview:free"
 
 class AITelegramBot:
@@ -189,4 +189,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\n✅ Бот остановлен")
     except Exception as e:
+
         print(f"❌ Критическая ошибка: {e}")
