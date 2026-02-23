@@ -34,5 +34,6 @@ https://t.me/BotFather - Создание бота в Telegram выполняе�
 ```bash
 git clone https://github.com/AnonimusShamshiAlex/tgbotai.git
 cd tgbotai
+pip install -r requirements.txt
 python main.py
 
