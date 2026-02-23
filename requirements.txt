@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+aiohttp==3.9.1
+SpeechRecognition==3.10.0
+pydub==0.25.1
+standard-aifc
