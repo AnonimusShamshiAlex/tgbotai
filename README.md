@@ -16,6 +16,12 @@ OpenRouter ключ:
 
 https://openrouter.ai/stepfun/step-3.5-flash:free
 
+## Botfather 
+
+https://t.me/BotFather - Создание бота в Telegram выполняется через официального бота
+@BotFather.
+
+
 ## Возможности
 - Текстовые сообщения
 - Голосовые сообщения (распознавание речи)
