@@ -34,6 +34,15 @@ https://t.me/BotFather - Создание бота в Telegram выполняе�
 ```bash
 git clone https://github.com/AnonimusShamshiAlex/tgbotai.git
 cd tgbotai
+pip install python-telegram-bot aiohttp speechrecognition pydub
+
+# Ubuntu/Debian
+sudo apt install ffmpeg
+# MacOS
+brew install ffmpeg
+# Windows 
+winget install --id Gyan.FFmpeg -e --source winget
+
 pip install -r requirements.txt
 python main.py
 Or:
