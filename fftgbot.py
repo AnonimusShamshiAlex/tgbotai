@@ -24,8 +24,8 @@ logger = logging.getLogger(__name__)
 # ============================================
 # ВАШИ ТОКЕНЫ
 # ============================================
-TELEGRAM_TOKEN = "8444193334:AAH6adrYZEg-id049jKtnl1sKkESuz25c4g"
-OPENROUTER_API_KEY = "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"
+TELEGRAM_TOKEN = "YOU_TOKEN_TGBOT"
+OPENROUTER_API_KEY = "API_KEY"
 MODEL_NAME = "google/gemma-4-26b-a4b-it"
 
 class AITelegramBot:
