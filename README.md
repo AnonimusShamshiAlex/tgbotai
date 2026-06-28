@@ -45,6 +45,6 @@ winget install --id Gyan.FFmpeg -e --source winget
 
 pip install -r requirements.txt
 python main.py
-Or:
+# Or:
 python fftgbot.py
 
